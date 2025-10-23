@@ -12,6 +12,9 @@ The first week focused on understanding **Who is the Metro Bank Customer?** by e
   - West: 110 customers
 - **Key Segments (Scale vs. Value):** The customer base is heavily skewed towards **Retail (286 customers)**, followed by Corporate (169) and Private (45).
 - **Tenure:** The largest group of customers is **Established (3-5 Yrs)**, totaling 170 customers.
+
+![Week 1 Dashboard](./dash1.png)
+
 ## Week 2: Accounts & Financial Relationships
 This phase mapped the overall financial health and customer relationships by analyzing product ownership, total balances, and credit profiles.
 - **Total Deposit Balance: $212,341,134.00**
@@ -25,6 +28,9 @@ This phase mapped the overall financial health and customer relationships by ana
 - **Millennials and Gen Zs** hold higher balances than older generations
 - **High-Value Customers:** The top five individual customers each maintain balances exceeding **$1.7 million**.
 - **Occupations** with the largest deposit balances are **bankers, doctors, and engineers.**
+
+![Week 2 Dashboard](./dash2.png)
+
 ## Week 3: Transaction Behavior & Patterns
 The third week analyzed transactional data to identify customer engagement and usage preferences, leading to key recommendations.
 ### Transaction Overview
@@ -44,6 +50,9 @@ The third week analyzed transactional data to identify customer engagement and u
 - **Credit Card Usage:** Customers without credit cards are making more payment-type transactions.
   - **Problem:** This indicates credit cards aren't positioned as the preferred payment tool.
   - **Recommendation:** Reposition credit cards as the primary payment tool (e.g., cashback on bills) and target non-card customers.
+ 
+![Week 3 Dashboard](./dash3.png)
+
 ## Week 4: Branch Performance & Efficiency
 This section evaluated the financial and operational efficiency of Metro Bank's four regional branches.
 ### Overall Financials
@@ -56,6 +65,9 @@ This section evaluated the financial and operational efficiency of Metro Bank's 
 - **Invest in North & West:** These regions show the highest efficiency and margins. West has the highest Revenue per Staff.
 - **Optimize South:** Strongest revenue, but operating costs are significantly high.
 - **Reassess East:** The weakest financial performer, requiring restructuring or support.
+
+![Week 4 Dashboard](./dash4.png)
+
 ## Week 5: Risk Analysis and Mitigation
 The final week focused on identifying and classifying risk patterns through the lens of customer complaints and fraud cases.
 - **Total Complaints: 800**
@@ -69,3 +81,5 @@ The final week focused on identifying and classifying risk patterns through the 
 - **Strengthen Risk Profiling:** Enhance real-time monitoring to catch behavioral red flags earlier.
 - **Encourage Financial Literacy:** Use personalized messaging to increase engagement for medium-risk customers.
 - **Introduce Credit Support:** Implement credit support or restructuring programs for high-risk customers to minimize potential defaults.
+
+![Week 5 Dashboard](./dash5.png)
